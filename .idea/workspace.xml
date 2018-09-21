@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6010ab0-f0a0-4007-9895-16995b3dbbf1" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/splaa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yii2settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dates/BirthDays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run" beforeDir="false" afterPath="$PROJECT_DIR$/run" afterDir="false" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +31,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="gitignore" value="2" />
+=======
+          <entry key="gitignore" value="1" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
           <entry key="html" value="1" />
           <entry key="php" value="1" />
           <entry key="run" value="1" />
@@ -28,25 +43,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Git file" value="2" />
+=======
+          <entry key="Git file" value="1" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
           <entry key="HTML" value="1" />
           <entry key="PHP" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="gitignore" value="3" />
           <entry key="html" value="23" />
           <entry key="php" value="117" />
           <entry key="run" value="32" />
+=======
+          <entry key="html" value="23" />
+          <entry key="php" value="117" />
+          <entry key="run" value="21" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="Git file" value="3" />
           <entry key="HTML" value="23" />
           <entry key="PHP" value="149" />
+=======
+          <entry key="HTML" value="23" />
+          <entry key="PHP" value="138" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -71,6 +101,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,6 +116,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
               <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
             </state>
           </provider>
         </entry>
@@ -108,7 +146,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/Dates/BirthDays.php" />
         <option value="$PROJECT_DIR$/run" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
       </list>
     </option>
   </component>
@@ -118,11 +159,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="368" />
     <option name="y" value="61" />
     <option name="width" value="947" />
     <option name="height" value="654" />
+=======
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="753" />
+    <option name="y" value="25" />
+    <option name="width" value="687" />
+    <option name="height" value="875" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -184,11 +233,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537527245239</updated>
+<<<<<<< HEAD
       <workItem from="1537527249809" duration="1689000" />
+=======
+      <workItem from="1537527249809" duration="1159000" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1689000" />
   </component>
   <component name="ToolWindowManager">
@@ -197,6 +251,16 @@
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17203107" />
+=======
+    <option name="totallyTimeSpent" value="1159000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="753" y="25" width="687" height="875" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24180967" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -225,6 +289,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -244,6 +314,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="380">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
@@ -253,6 +324,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+=======
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+>>>>>>> 2f2eef77d1718d72acf5eab261811b11b1de83ed
         </state>
       </provider>
     </entry>
