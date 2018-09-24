@@ -24,7 +24,7 @@
 			$this->todayDate = date('Y-m-d');
 		}
 		
-		public function findTotalDays()
+		public function findTotalDays():string
 		{
 			$birthTime = strtotime($this->birthDate);
 			$todayTime = strtotime($this->todayDate);

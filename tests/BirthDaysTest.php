@@ -9,7 +9,22 @@
 	namespace Splx\Dates;
 	
 	
-	class BirthDaysTest extends \PHPUnit_Framework_TestCase
+	use PHPUnit\Framework\TestCase;
+	
+	final class BirthDaysTest extends TestCase
 	{
-		
+		public function testTodayZero(){
+			$todayDate = date('Y-d-m');
+			$days = new BirthDays($todayDate);
+			$todayDate = $days->findTotalDays();
+			
+			$this->assertEquals(0,$todayDate);
+		}
+		public function testBackToYear(){
+			$todayDate = date('Y-d-m',time()-365*24*3600);
+			$days = new BirthDays($todayDate);
+			$todayDate = $days->findTotalDays();
+			
+			$this->assertEquals(365,$todayDate);
+		}
 	}
